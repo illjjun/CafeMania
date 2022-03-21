@@ -6,7 +6,7 @@
 	<title>카페관리</title>
 	<link rel="stylesheet" href="//code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
 </head>
-<body align=center>
+<body>
 <h1>
 	주문관리  
 </h1>
